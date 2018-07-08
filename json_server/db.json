@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "JAVA",
+      "lastname": "JAVA",
+      "email": "JAVA@JAVA.com"
+    },
+    {
+      "id": 2,
+      "firstname": "JavaScript",
+      "lastname": "JavaScript",
+      "email": "JavaScript@JavaScript.com"
+    },
+    {
+      "id": 3,
+      "firstname": "C++",
+      "lastname": "C++",
+      "email": "C++@C++.com"
+    },
+    {
+      "id": 4,
+      "firstname": "Python",
+      "lastname": "Python",
+      "email": "Python@Python.com"
+    },
+    {
+      "firstname": "aa",
+      "lastname": "aa",
+      "email": "aa",
+      "id": 5
+    }
+  ]
+}
